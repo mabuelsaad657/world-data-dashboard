@@ -18,5 +18,4 @@ npm run dev
 Then open the printed local URL.
 
 ## Notes
-- No API keys required.
-- If Tailwind classes don't render, ensure your editor saved files and restart dev server.
+-Partner Ryan
