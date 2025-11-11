@@ -19,3 +19,5 @@ Then open the printed local URL.
 
 ## Notes
 -Partner Ryan
+-Figma Link: https://www.figma.com/design/mSMMTbMKjuJ0sd3OuwelJb/Untitled?node-id=0-1&t=SOtD64gXYyznAlHB-1
+
